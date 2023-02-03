@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 Run the script using:
 ```
-python pytubw1080p.py
+python pytube1080p.py
 ```
 
 
